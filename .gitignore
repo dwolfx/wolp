@@ -8,3 +8,4 @@ test/unit/coverage
 .idea/
 faviconData.json
 package-lock.json
+.idea/workspace.xml
